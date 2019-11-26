@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skillkeeper",
+  "private_key_id": "c9e1705ac94d24a83bf86e22db90073597c55887",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCx9Bb7imwl0j78\nnItkAL0rh6hxVGxLCf/xCl8HU9lahQTBeDSKxHj6GHTCPED5lI65TVnd41rFUCWA\nI8iWhwFMaYAGsoI8CrRW14MunWFPQF78O/jzxD4Swns8qRhIMCcKT7rdUgJX/CZ/\nA4oQrAl62yRKSPMHHLBwkaX4RVGAIO8uBZETQJ/fpEjlyNr4a9fwQNWkwJMXehs4\nYOXbJ4bBavymgSBbBro0bC8svfgZ+T8K9CAgj3X5gqkZCMYgQ9XMpu0x+CxxT6VB\nQEta/xHn1BuRdpIGEHLmKDILR2G6BbqR58311VQkVAwdryzddd1fWZ0f9ERa4nOV\nsvIE/BKFAgMBAAECggEAO8a5A6UDYA8IXnW9cwm2gc1PfUY1HF3PDiqEMmNtozUE\nnHKi/6ww0R3u9qIj11KaQM+lbN4myxn5hto+UqYl/wN/YICNM9sKqhM5uypdmjAO\n2B7TKRtWGJogqIdKo1EdhB61MAwQwnpuegL32VLY2l6LibKIhG6ULDQYstWiI24d\nC1kyalEYNetcEEk6enCKUx/wWbIFyFMZHfD12qKIzBWYlrsnOKQ0vUunjCM3WAyj\n5/dKIGTwDNEF2PO7zjV1fDdKXQtOwoIW1D/NRtI66lkzNH0Lkz5JN3qM9W4JFj3E\nq5UsoIJWNK5afE+ojd3QWZb7Ya3tDll+/OKquxhenwKBgQDjZJON5IsFZPvbgLr/\nNCDeDUnf8M9FrMrbuGpZ/ZAkxlm4uE/k6jlGHGStHp9WauvWE1GPehUcGoSz/chK\nhFMArHfQ5RdrOh+XPrRWF7M1YwjlJIf4O4uPiaLfbqHYK79nrlN9f+Xanly2Wewu\n8D8WJDl8772QM4MKrajl9PH58wKBgQDIV0Qj1HKC5ts4v/s56SfXvigjSSzXc4Ah\nFaQW8ZgQVZGsWjPiU5SaJ5KDdXX5ln4lHNU8a+dHGXFdVDbQ/9WCNgf5Jg8yPK8c\nnhK++oqSfVCxJxHYumLJlVRmyDgszs9SkKslEmZnm+0fglNISTpDq7jqYWZGJKIv\nBSZfjzonpwKBgFPXbaBPuAKRLVvNpyUZr1SwSaDMRWBHSbSh1nS/zToB+Grnam3Y\n/q0fIu/B7rYKTlJsZRIlzUrDbFKBLCxthb0l2jengG8Ey0kU0aE8s9LnZQw33/pi\n2h5efTMss3flCXnNCPOpCLMG2OBTX4YfBuO/D4NFUfutQo/ZYAEJw36JAoGAGMII\nDrF7cUfcQZggENkKbnP2e93YJ8wDQpNtEtTKaQJaHUWMceTIUYCgb5R9ftmlPyrg\nAzaGf1falaEJoSxsk0ngFF8qs5eiQFQclvNZWp8X8LyWTQVDngvRQV5u6sKoBlkQ\nfWVXuGghlqpBZoZ+J8y57mUZAYQXct4dDuQhWLMCgYAdDgt18dJPJLI6bEPjTJeF\nArsXAGFLVEl5L8LvOFI5XD2CCZp94Awh942boHKg0S2aOnJCiRKQEVUfz0JcYe+c\nXBvkSA+w70mbRPr8NsxUKgKUD7Kewz2JtbQkJVfalZTU2tYznb4NYYTzuhesYHMt\nGoO98gYSDKAUixJ+ourgdA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "acct-241@skillkeeper.iam.gserviceaccount.com",
+  "client_id": "112391283341997386386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acct-241%40skillkeeper.iam.gserviceaccount.com"
+}

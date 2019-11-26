@@ -19,6 +19,7 @@ namespace Fizzi.Libraries.ChallongeApiWrapper
         public ChallongePortal(string apiKey, string subdomain)
         {
             client = new RestClient(@"https://api.challonge.com/v1/");
+            
             ApiKey = apiKey;
             Subdomain = subdomain;
         }
